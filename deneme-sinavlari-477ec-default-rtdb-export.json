@@ -1,0 +1,724 @@
+{
+  "Fen Bilgisi Deneme 1" : [ {
+    "a" : "Dünya",
+    "b" : "Mars",
+    "c" : "Ay",
+    "d" : "Güneş",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "• Sıcak gazlardan oluşan orta büyüklükte bir yıldızdır.\n• Çevresine ısı ve ışık yayar.\n• Yeryüzündeki yaşamın kaynağıdır.\n Yukarıda verilen bilgiler, hangi gök cismine aittir?"
+  }, {
+    "a" : "Güneş bir köy ise Dünya bir şehirdir",
+    "b" : "Güneş bir karpuz ise Dünya bir cevizdir",
+    "c" : "Güneş bir tenis topu ise Dünya bir basketbol topudur",
+    "d" : "Güneş bir futbol topu ise Dünya bir voleybol topudur.",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Mehmet Öğretmen, öğrencilerinden Güneş’in ve Dünya’nın büyüklüklerini karşılaştıracakları bir cümle kurmalarını istiyor. \nBuna göre hangi cümle doğru bir karşılaştırma içerir?"
+  }, {
+    "a" : "Büyüteç",
+    "b" : "Dürbün",
+    "c" : "Güneş tutulması gözlüğü",
+    "d" : "Cam",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "Güneş’e baktığımızda gözlerimizin zarar görmemesi için aşağıdaki aletlerden hangisini kullanmalıyız?"
+  }, {
+    "a" : "1. Çıkış",
+    "b" : "2. Çıkış",
+    "c" : "3. Çıkış",
+    "d" : "4. Çıkış",
+    "dc" : 1,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Fen%20Bilgisi%2FTest%201%2Fft1s4.png?alt=media&token=97e80e77-a6be-4484-9340-6d1af1b1f2b4",
+    "soruAdi" : "Verilen tanılayıcı dallanmış ağaçta yukarıdaki ifadeden başlanarak “Doğru (D)” ya da “Yanlış (Y)” yönünde ilerlenirse, kaç numaralı çıkışa ulaşılır?"
+  }, {
+    "a" : "I ve II.",
+    "b" : "I ve III",
+    "c" : "II ve III.",
+    "d" : "I, II ve III.",
+    "dc" : 1,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Fen%20Bilgisi%2FTest%201%2Fft1s5.png?alt=media&token=aace43c3-4b12-4f03-a806-c4437d3fd72e",
+    "soruAdi" : "Aşağıdaki görselde Güneş’ten bir kesit verilmiştir.\n Bu görselle ilgili,\n I. Güneş’in de tıpkı Dünya gibi katmanlardan oluştuğunu göstermektedir.\n II. Görseldeki katmanların farklı renkte olması sıcaklıklarının da farklı olacağı anlamına gelebilir. \n III. Yüzeyde görülen gaz fışkırmaları, yüzey sıcaklığının Güneş’in merkezindeki sıcaklıktan daha fazla olduğunu kanıtlar.\nifadelerinden hangileri doğrudur?"
+  }, {
+    "a" : "Hans Lippershey",
+    "b" : "Isaac Newton",
+    "c" : "Galileo Galilei",
+    "d" : "Johannes Kepler",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "Astronomi alanında kullanılan ilk teleskobu icat eden ve Güneş’in kendi ekseni etrafında dönme hareketi yaptığı sonucuna ulaşan bilim insanı kimdir?"
+  }, {
+    "a" : "Hidrojen ve Oksijen",
+    "b" : "Argon ve Helyum",
+    "c" : "Oksijen ve Azot",
+    "d" : "Hidrojen ve Helyum",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "Günümüzde bilimin ulaştığı bilgilere göre, Güneş’te ortaya çıkan ısı ve ışığın kaynağı hangi iki maddedir?"
+  }, {
+    "a" : "Elif : Güneş’in de tıpkı Dünya gibi katmanları vardır.",
+    "b" : "Arda : Güneş’ten yayılan enerjinin tamamı Dünya’ya ulaşır.",
+    "c" : "Orhan : Güneş’in şekli küreseldir.",
+    "d" : "Ekin : Güneş kendi ekseni etrafında döner",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Aşağıdaki öğrencilerden hangisi Güneş’in özellikleri ile ilgili yanlış bir bilgi vermiştir?"
+  }, {
+    "a" : "D Y Y D",
+    "b" : "D D Y Y",
+    "c" : "Y Y D D",
+    "d" : "Y D Y D",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "(.....) Dünya'ya en yakın yıldızdır.\n(.....) Dünya'dan daha büyüktür.\n(.....) Kendi etrafında dönüşü sonucu mevsimler oluşur.\n(.....) Dünya'nın etrafında döner.\nGüneş ile ilgili verilen yukarıdaki ifadelerin başındaki boşluklara ifadelerin doğru “D” ya da yanlış “Y” olduğu yazılırsa hangi seçenekteki sıralama elde edilir?"
+  }, {
+    "a" : "Güneş’in çok yüksek sıcaklıkta olması",
+    "b" : "Kendi etrafında dönme hareketi yapması",
+    "c" : "Çok uzakta olduğundan gerçek boyutundan küçük algılanması",
+    "d" : "Güneş ışınlarının Dünya’ya geç ulaşması",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "Güneş oldukça büyük bir gök cismi olmasına rağmen Dünya’dan bakıldığında küçük görünür. \nBu durumun nedeni aşağıdakilerden hangisi olabilir?"
+  } ],
+  "Fen Bilgisi Deneme 2" : [ {
+    "a" : "Yalnız I.",
+    "b" : "I ve II.",
+    "c" : "II ve III.",
+    "d" : "I, II ve III.",
+    "dc" : 3,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Fen%20Bilgisi%2FTest%202%2F1.png?alt=media&token=f2047e7e-13a8-4866-9b94-cfcb29b46a48",
+    "soruAdi" : "Aşağıdaki fotoğraf astronot Neil Armstrong’un 1969 yılında Ay yüzeyine ayak basması sonucu oluşan ayak izidir.\\nBu ayak izinin günümüze kadar hiç bozulmadan kalmasına;\\nI. Ay’ın şeklinin küresel olması,\\nII. Ay’da yağmur ve rüzgâr olaylarının oluşmaması, \\nIII. Ay yüzeyinde bulunan toz tabakasının sabit olması \\ndurumlarından hangileri sebep gösterilebilir?"
+  }, {
+    "a" : "I.",
+    "b" : "II.",
+    "c" : "III.",
+    "d" : "IV.",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "“Bir astronot olarak Ay’a gönderilseydiniz, orada neler gözlemleyebilirdiniz?”\\nFen Bilimleri Öğretmeni, yukarıdaki soruyu öğrencilerine soruyor. Öğrencilerin verdiği cevaplardan bazıları şöyledir:\\n I. Yüzeyinde büyük çukurlar var.\\n II. Canlı yaşamı yok. \\n III. Özel kıyafetlerim olmasaydı, nefes alamazdım. \\n IV. Oldukça kalın bir atmosfer tabakasına sahip. \\n Buna göre kaç numaralı cevap Ay ile ilgili yanlış bilgi içerir?"
+  }, {
+    "a" : "Ay’ın daha parlak olması",
+    "b" : "Güneş’in ışığının Ay’a ulaşması",
+    "c" : "Ay’ın şeklinin küresel olması",
+    "d" : "Dünya’nın Ay’a daha yakın olması",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "Dünya’dan gökyüzüne baktığımızda Ay’ı diğer gök cisimlerinden daha büyükmüş gibi görürüz. \\n Bunun nedeni aşağıdakilerden hangisi olabilir?"
+  }, {
+    "a" : "meteor",
+    "b" : "krater",
+    "c" : "mağara",
+    "d" : "leke",
+    "dc" : 2,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Fen%20Bilgisi%2FTest%202%2F4.png?alt=media&token=d9065020-0fb9-47d6-8aff-3e463c758bd0",
+    "soruAdi" : "Aşağıdaki tanımda boş bırakılan yere hangi kavram getirilmelidir?"
+  }, {
+    "a" : "Dünya : Karpuz, Güneş : Domates, Ay : Bezelye",
+    "b" : "Dünya : Domates, Güneş : Karpuz, Ay : Bezelye",
+    "c" : "Dünya : Domates Güneş : Bezelye, Ay : Karpuz",
+    "d" : "Dünya : Bezelye Güneş : Karpuz, Ay : Domates",
+    "dc" : 2,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Fen%20Bilgisi%2FTest%202%2F5.png?alt=media&token=f3450c74-529c-4008-a804-38d762135106",
+    "soruAdi" : "Aşağıda verilen yiyecekler büyüklük ilişkisine göre Dünya, Güneş ve Ay modelleri oluşturmak için kullanılmak isteniyor.\\nBu yiyeceklerin modelleyeceği gök cisimleri ile doğru eşleştirilmesi hangi seçenekte verilmiştir?"
+  }, {
+    "a" : "1.",
+    "b" : "2.",
+    "c" : "3.",
+    "d" : "4.",
+    "dc" : 1,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Fen%20Bilgisi%2FTest%202%2F6.png?alt=media&token=d6a5c785-f5a7-4690-bc8e-cf66e2e16d58",
+    "soruAdi" : "Verilen tanılayıcı dallanmış ağaçta, en üstteki ifadeden başlanarak “Doğru(D)” veya “Yanlış (Y)” yönünde ilerlenirse kaç numaralı çıkışa ulaşılır?"
+  }, {
+    "a" : "1 ve 2.",
+    "b" : "2 ve 3.",
+    "c" : "3 ve 4.",
+    "d" : "1 ve 4.",
+    "dc" : 1,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Fen%20Bilgisi%2FTest%202%2F7.png?alt=media&token=3bac4f94-42cb-4ca9-bb6e-14fd17ffcf20",
+    "soruAdi" : "Yukarıdaki numaralanmış kartlarda yazan zaman dilimlerinden hangi ikisi birbirine eşittir?"
+  }, {
+    "a" : "I : 38400 km, II:15 km",
+    "b" : "I : 150 km, II: 384 km",
+    "c" : "I : 150 milyon km, II: 384 bin km",
+    "d" : "I : 384 bin km, II:150 milyon km",
+    "dc" : 3,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Fen%20Bilgisi%2FTest%202%2F8.png?alt=media&token=b40bc1d5-de89-41dd-87c8-bf48ac8cf98b",
+    "soruAdi" : "Şekilde Güneş ile Dünya arasındaki uzaklık “I”, Dünya ile Ay arasındaki uzaklık ise “II” ile numaralanmıştır.\\n Buna göre I ve II uzaklıklarının yaklaşık değerleri hangi seçenekteki gibi olabilir?"
+  }, {
+    "a" : "Şekli küreseldir.",
+    "b" : "Doğal ışık kaynağıdır.",
+    "c" : "Dünya’nın tek doğal uydusudur",
+    "d" : "Çok ince bir atmosfer tabakası vardır.",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Ay ile ilgili verilen aşağıdaki bilgilerden hangisi yanlıştır?"
+  }, {
+    "a" : "Yalnız I.",
+    "b" : "I ve II.",
+    "c" : "II ve III.",
+    "d" : "I, II ve III.",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "Ay’a çıkan astronotlar, özel tasarlanmış kıyafeti giyerler.\\nBu kıyafetin astronotlar tarafından giyilme nedenleri ile ilgili;\\n I. Rahat nefes almalarını sağlaması \\n II. Bedenlerini dış darbelere karşı koruması \\n III. Vücut sıcaklıklarını dengede tutması \\n ifadelerinden hangileri doğrudur?"
+  }, {
+    "a" : "Ay’ın Dünya etrafında dolanması",
+    "b" : "Dünya’nın Ay’dan büyük olması",
+    "c" : "Ay’ın kendi etrafında dönmesi",
+    "d" : "Dünya’nın Ay’a yakın olması.",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Bilim insanları, Dünya’dan Ay’ın düzenli olarak fotoğraflarını çekerek inceliyorlar. Bunun sonucunda Dünya’dan bakıldığında Ay’ın değişik şekillerde göründüğünü ve bu görüntülerin düzenli olarak tekrar ettiğini tespit ediyorlar.\\nBilim insanlarına göre bu durumun nedenlerinden biri aşağıdakilerden hangisi olabilir?"
+  }, {
+    "a" : "Güneş tutulmasının meydana gelmesi",
+    "b" : "Gece ve gündüz oluşumu",
+    "c" : "Dünya’dan Ay’ın hep aynı yüzünün görülmesi",
+    "d" : "Ay’ın atmosfer tabakasının ince olması",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "Ay’ın kendi ekseni etrafındaki bir tam dönüş süresi ile Dünya etrafındaki bir tam dolanma hareketinin süresi birbirine eşit olup 27,3 gündür.\nAşağıdakilerden hangisi bu durumun sonuçlarından biridir?"
+  } ],
+  "Matematik Deneme 1" : [ {
+    "a" : "Altı yüz elli dört milyon altı bin yedi yüz dokuz",
+    "b" : "Altı milyon yedi yüz dokuz bin altı yüz elli dört",
+    "c" : "Yedi yüz dokuz milyon altı bin altı yüz elli dört",
+    "d" : "Yedi milyon dokuz yüz altmış beş bin dört yüz altı",
+    "dc" : 1,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/mt1s1.png?alt=media&token=532c3397-bf89-4c4f-bf42-3ca40ea3d0a5",
+    "soruAdi" : "Bir maraton koşusunda Fatih 1., Ümit 2. ve İsmail 3. olmuştur.\\nKürsüye çıkan koşucuların soldan sağa doğru forma numaralarının oluşturduğu dokuz basamaklı sayının okunuşu aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "976",
+    "b" : "960",
+    "c" : "690",
+    "d" : "609",
+    "dc" : 3,
+    "soruAdi" : "876___417 sayısının okunuşu “sekiz yüz yetmiş altı milyon altı yüz dokuz bin dört yüz on yedi” olduğuna göre ___ yerine gelmesi gereken sayı aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "480 900 056",
+    "b" : "480 090 506",
+    "c" : "48 090 506",
+    "d" : "48 009 506",
+    "dc" : 3,
+    "soruAdi" : "Okunuşu “kırk sekiz milyon doksan bin beş yüz altı” olan sayı aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "23",
+    "b" : "20",
+    "c" : "18",
+    "d" : "13",
+    "dc" : 2,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/mt1s4.png?alt=media&token=4f6ac281-0e6e-420a-a9f2-2229fac83f3a",
+    "soruAdi" : "Şekildeki abaküste 698 007 745 sayısı gösterilecektir.\\nBuna göre boş çubuklara toplam kaç tane boncuk yerleştirilmelidir?"
+  }, {
+    "a" : "532 724 821",
+    "b" : "721 532 824",
+    "c" : "724 821 532",
+    "d" : "821 532 724",
+    "dc" : 4,
+    "soruAdi" : "724 532 821 sayısının birler bölüğü ile milyonlar bölüğü yer değiştirdiğinde oluşan sayı aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "3",
+    "b" : "4",
+    "c" : "5",
+    "d" : "6",
+    "dc" : 3,
+    "soruAdi" : "15 435 152 sayısının on milyonlar basamağı ile yüz binler basamağındaki rakamların sayı değerleri toplamı kaçtır?"
+  }, {
+    "a" : "808 088 888",
+    "b" : "808 888 088",
+    "c" : "888 088 808",
+    "d" : "888 808 088",
+    "dc" : 4,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/mt1s7.png?alt=media&token=8d245dbd-2ee6-4528-82b1-01ecffd287ca",
+    "soruAdi" : "Aşağıda her bir karta sayılar yazılmıştır.\\n Her bir kart bir bölüğü temsil ettiğine göre bu üç kartı yan yana koyarak yazılabilecek en büyük doğal sayı aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "2 ve 4",
+    "b" : "4 ve 2",
+    "c" : "2 000 000 ve 40",
+    "d" : "4 000 000 ve 20",
+    "dc" : 3,
+    "soruAdi" : "72 306 849 sayısının milyonlar basamağı ile onlar basamağındaki rakamların basamak değerleri sırasıyla aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "21",
+    "b" : "23",
+    "c" : "24",
+    "d" : "26",
+    "dc" : 3,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/mt1s9.png?alt=media&token=080acf8c-e452-43ad-8be4-046a96d3574e",
+    "soruAdi" : "Verilen şekil örüntüsünün 8. adımındaki daire sayısıyla üçgen sayısının toplamı kaçtır?"
+  }, {
+    "a" : "102",
+    "b" : "108",
+    "c" : "114",
+    "d" : "120",
+    "dc" : 1,
+    "soruAdi" : "4 , 10 , 16 , 22 , K , L , M\\nYukarıda verilen adımlar arasındaki farkı sabit olan sayı örüntüsünde K, L ve M sayılarının toplamı kaçtır?"
+  }, {
+    "a" : "20",
+    "b" : "21",
+    "c" : "22",
+    "d" : "23",
+    "dc" : 2,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/mt1s11.png?alt=media&token=2f9caf83-df71-4d18-af32-c58b5b81bd4c",
+    "soruAdi" : "Verilen şekil örüntüsünün herhangi bir adımındaki kare sayısı aşağıdakilerden hangisi olabilir?"
+  }, {
+    "a" : "47",
+    "b" : "44",
+    "c" : "41",
+    "d" : "38",
+    "dc" : 2,
+    "soruAdi" : "Kumbarasında 5 lira olan Nurşen, her hafta kumbarasına 3 lira eklerse 13. hafta sonunda kumbarasında kaç lira olur?"
+  } ],
+  "Matematik Deneme 2" : [ {
+    "a" : "113 102",
+    "b" : "113 002",
+    "c" : "103 112",
+    "d" : "103 102",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "34 008 + 79 094 işleminin sonucu kaçtır?"
+  }, {
+    "a" : "22 109",
+    "b" : "23 009",
+    "c" : "23 019",
+    "d" : "23 109",
+    "dc" : 4,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Matematik%2FTest%202%2F2.png?alt=media&token=39305255-d42a-46e7-b8f1-7a2813843053",
+    "soruAdi" : "Üçgen + kare + daire = 19 olduğuna göre yukarıdaki dört basamaklı sayılarla yapılan toplama işleminin sonucu kaçtır?"
+  }, {
+    "a" : "80 000",
+    "b" : "77 000",
+    "c" : "76 000",
+    "d" : "73 000",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "84 213 – 7196 çıkarma işleminin tahmini sonucu aşağıdakilerden hangisi olabilir?"
+  }, {
+    "a" : "145 314",
+    "b" : "140 094",
+    "c" : "101 574",
+    "d" : "101 088",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "486 × 209 işleminin sonucu kaçtır?"
+  }, {
+    "a" : "24",
+    "b" : "44",
+    "c" : "104",
+    "d" : "404",
+    "dc" : 4,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Matematik%2FTest%202%2F5.png?alt=media&token=9d60f1c7-0fcb-462b-af96-752fcc31eac5",
+    "soruAdi" : "Aşağıdaki kalanlı bölme işleminde bölüm kaçtır?"
+  }, {
+    "a" : "28",
+    "b" : "29",
+    "c" : "30",
+    "d" : "31",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "Bir trende 1453 yolcu seyahat edecektir.\\nBu trende her bir vagon 49 yolcu alabildiğine göre en az kaç adet vagon gerekir?"
+  }, {
+    "a" : "4500 sayısından iki sıfır silinip elde edilen sonuç 2 ile çarpılırsa",
+    "b" : "45 sayısı 5’e bölünüp elde edilen sonucun sağına bir sıfır eklenirse",
+    "c" : "4500 sayısı 10’a bölünüp elde edilen sonuç 5’e bölünürse",
+    "d" : "450 sayısı 5’e bölünüp elde edilen sonucun sağına iki\nsıfır eklenirse",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "4500 : 50 işleminin sonucunu bulmak için aşağıdakilerden hangisi yapılırsa doğru sonuca ulaşılamaz?"
+  }, {
+    "a" : "15",
+    "b" : "10",
+    "c" : "6",
+    "d" : "3",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Doğal sayılarla yapılan bir bölme işleminde bölen 6 olduğuna göre kalanın alabileceği değerler toplamı kaçtır?"
+  }, {
+    "a" : "Kolay toplanan sayılardan başlama",
+    "b" : "Onlukları ve birlikleri ayırarak toplama",
+    "c" : "Üzerine sayarak toplama",
+    "d" : "Sayıları 10’u referans alarak parçalama",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "26 + 18 + 34\n= 20 + 10 + 30 + 6 + 8 + 4\\n= 60 + 18 \\n=78\\nVerilen işlem aşağıdaki yöntemlerden hangisi kullanılarak yapılmıştır?"
+  }, {
+    "a" : "415",
+    "b" : "405",
+    "c" : "401",
+    "d" : "400",
+    "dc" : 1,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Matematik%2FTest%202%2F10.png?alt=media&token=f67df49b-1567-47f6-b7b2-0d4a429c47a0",
+    "soruAdi" : "Aşağıdaki doğal sayılarla yapılan bölme işlemine göre B’nin alabileceği en büyük değer kaçtır?"
+  }, {
+    "a" : "I ve II.",
+    "b" : "II ve III",
+    "c" : "II ve IV",
+    "d" : "III ve IV",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "I.54 x 20\\nII. 58 x 30\\nIII. 27 x 50 \\nIV. 41 x 60 \\nYukarıdaki çarpma işlemlerinde çarpanlar en yakın onluğa yuvarlanarak işlemlerin sonuçları tahmin ediliyor.\\nHangilerinin tahmini sonucu gerçek sonuçtan büyüktür?"
+  }, {
+    "a" : "20",
+    "b" : "17",
+    "c" : "15",
+    "d" : "13",
+    "dc" : 1,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Matematik%2FTest%202%2F12.png?alt=media&token=d6143fa3-3184-40b5-90f9-1c2ec0b234bd",
+    "soruAdi" : "Aşağıdaki çarpma işlemine göre kare +üçgen + daire kaçtır?"
+  } ],
+  "Sosyal Bilgiler Deneme 1" : [ {
+    "a" : "Türk tarihini öğrenmeye başlamıştır.",
+    "b" : "Yardımlaşma duygusu gelişmiştir.",
+    "c" : "İnsanlara karşı sevgi ve saygısı artmıştır.",
+    "d" : "Toplumun sorunlarına karşı duyarlı hale gelmiştir.",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "Meryem haftasonu ailesiyle göl kenarına pikniğe giderken yol kenarlarına bırakılan çöplerin kokusunu aldı. Göle yaklaştıkça koku artıyordu ve çok rahatsız edici bir hal almıştı. Bu durum karşısında çok üzüldü. Aklına sosyal bilgiler dersinde öğretmeninin anlattıkları geldi. Belediyeye bu konu ile ilgili bir dilekçe yazdı.\n Buna göre sosyal bilgiler dersinin Meryem’e katkısı aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "Halk oyunları ekibi ",
+    "b" : "Konserdeki seyirciler",
+    "c" : "Aile bireyleri",
+    "d" : "Sınıftaki öğrenciler",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Ortak bir amaç için bir araya gelen, en az iki veya daha fazla kişiden oluşan, aralarında ilişki ve işbirliği bulunan topluluğa “grup” denir.\nBuna göre aşağıdakilerden hangisi grup değildir?"
+  }, {
+    "a" : "Yalnız I.",
+    "b" : "I ve II.",
+    "c" : "II ve III.",
+    "d" : "I, II ve III.",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "I. Savaşlar,\nII. Doğal afetler,\nIII. Yoksulluk\nYukarıdaki durumlardan hangileri çocukların barınma, beslenme ve eğitim gibi haklarını kullanmalarına engel olabilir?"
+  }, {
+    "a" : "Olayların nedeni önemli değildir.",
+    "b" : "Aynı olay birden fazla kişiyi etkileyebilir.",
+    "c" : "Olayların sadece sonuçlarına bakılmalıdır.",
+    "d" : "Her olayın sonucu aynıdır.",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Buse, okuluna yürüyerek gitmektedir. Fakat trafiğin yoğun olduğu ve yaya geçidinin olmadığı caddede karşıdan karşıya geçerken sıkıntı yaşamaktadır. Bu durum aynı zamanda sürücülerede sıkıntı oluşturmaktadır.\nBuna göre aşağıdakilerden hangisi söylenebilir?"
+  }, {
+    "a" : "Okuma alışkanlığı kazandırmak",
+    "b" : "Çevresine karşı hassas olmak",
+    "c" : "Vatandaşlık görevlerini öğrenmek",
+    "d" : "Beraber yaşama duygusunu geliştirmek",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Sosyal bilgiler dersi, demokratik değerleri benimseyen, içinde yaşadığı topluma uyum sağlayan ve toplumun sorunlarına duyarlı, hak ve sorumluluklarını bilen bireyler yetiştirmeyi amaçlar.\n Buna göre aşağıdakilerden hangisi sosyal bilgiler dersinin amaçlarından değildir?"
+  }, {
+    "a" : "Her çocuk temel yaşama hakkına sahiptir",
+    "b" : "Çocuklar hiçbir şekilde zorla çalıştırılamaz.",
+    "c" : "On beş yaşına kadar her insan çocuk sayılır.",
+    "d" : "Temiz bir çevrede yaşamını sürdürmek her çocuğun hakkıdır.",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "Aşağıdaki seçeneklerin hangisinde çocuk haklarıyla ilgili yanlış bilgi verilmiştir?"
+  }, {
+    "a" : "Toplumsal sorunların farkına varmak",
+    "b" : "Toplumun değerlerine saygılı olmak",
+    "c" : "Farklılıkları hoşgörü ile karşılamak",
+    "d" : "Başkalarının haklarını ihlal etmek",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "Aşağıdakilerden hangisi sosyal bilgiler dersinin kişinin kendi gelişimine katkılarından biri değildir?"
+  }, {
+    "a" : "I ve II.",
+    "b" : "I ve III.",
+    "c" : "II ve IV",
+    "d" : "III ve IV.",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "I. Mahallede maç yapan çocuklar\nII. Otobüs durağında bekleyen kişiler\nIII. İzcilik kulübüne katılan öğrenciler\nIV. Sokakta gezen insanlar\nYukarıda verilenlerden hangileri gruptur?"
+  }, {
+    "a" : "İzci",
+    "b" : "Kaleci",
+    "c" : "Evlat",
+    "d" : "Öğrenci",
+    "dc" : 3,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Sosyal%20Bilgiler%2FTest%201%2Fst1s9.png?alt=media&token=d1a11489-2c95-4d42-8ae1-6e010a257e80",
+    "soruAdi" : "Aşağıdaki açıklamaya göre Ahmet’in aile içerisindeki rolü aşağıdakilerden hangisi olabilir?"
+  }, {
+    "a" : "Halk oyunları oynamak",
+    "b" : "Pazar alışverişi yapmak",
+    "c" : "Koroda şarkı söylemek",
+    "d" : "Futbol oynamak",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Aşağıdakilerden hangisi grupla birlikte yaptığımız bir davranış değildir?"
+  }, {
+    "a" : "I:Müdür II:Öğretmen III:Öğrenci",
+    "b" : "I:Öğrenci II:Polis III:İzci",
+    "c" : "I:İzci II:Müdür III:Öğretmen",
+    "d" : "I:Öğrenci II:İzci III:Polis",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "l. Ders çalışmak\nll. Kamp kurallarına uymak\nlll. Güvenliği sağlamak\nYukarıda verilen davranışlar sırası ile hangi rollere aittir?"
+  }, {
+    "a" : "Olayların birden fazla nedeni olabilir.",
+    "b" : "Bir olayın birden çok sonucu olabilir.",
+    "c" : "Her birey olaylardan aynı etkilenir.",
+    "d" : "Olaylar birbirine benzerler.",
+    "dc" : 1,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Sosyal%20Bilgiler%2FTest%201%2Fst1s12.png?alt=media&token=27fcd0bb-136d-4ff1-99c6-e6f4a43129bf",
+    "soruAdi" : "Trafik kazası ile ilgili yapılan yorumlara bakıldığında aşağıdaki yargılardan hangisine ulaşılabilir?"
+  } ],
+  "Sosyal Bilgiler Deneme 2" : [ {
+    "a" : "Öğrenci",
+    "b" : "Oyuncu",
+    "c" : "Çocuk",
+    "d" : "Öğretmen",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Elif okula başlayacağı için erkenden kalktı. Kahvaltısını yaptı ve annesi ile okulun yolunu tuttu. Okuldaki ilk gününde okulunu ve arkadaşlarını çok sevdi.\\nElif’in okuldaki rolü aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "Yalnız II.",
+    "b" : "I ve II.",
+    "c" : "I ve III.",
+    "d" : "II ve III.",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "Sorumluluklarını yerine getiren bir bireyin;\\nI. daha az sorunla karşılaşması,\\nII. sık sık beklenmedik durumlar yaşaması,\\nIII. başarılı ve mutlu olması\\ndurumlarından hangileri ile karşılaşması beklenir?"
+  }, {
+    "a" : "Olaylar toplum içinde hazır bulunur",
+    "b" : "Bazı olaylar, aynı olaydan etkilenir.",
+    "c" : "Olaylar bir arada yaşamanın sonucudur",
+    "d" : "Bir olayın, birden çok sonucu olabilir",
+    "dc" : 4,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Sosyal%20Bilgiler%2FTest%202%2F3.png?alt=media&token=5b8ae5ec-a434-4460-93c5-a40f171948a3",
+    "soruAdi" : "Mehmet’in bu sözleri aşağıdakilerden hangisi ile daha çok bağlantılıdır?"
+  }, {
+    "a" : "Ayşe : Farklılıklara saygı gösteriyorum.",
+    "b" : "Kaan : Yaşadığım çevreyi tanıyorum.",
+    "c" : "Ezgi : Yazım kurallarını biliyorum.",
+    "d" : "İbrahim : Kültürel mirası tanıyorum.",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "Aşağıdaki öğrencilerden hangisi sosyal bilgiler dersinin kendi gelişimlerine katkısı ile ilgili yanlış bir örnek vermiştir?"
+  }, {
+    "a" : "Derse zamanında girmek",
+    "b" : "Kırılan tahtayı onarmak",
+    "c" : "Çantasını hazırlamak",
+    "d" : "Boşa akan musluğu kapatmak",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Aşağıdakilerden hangisi 6.sınıftaki Ömer’in okuldaki sorumluluklarından biri olamaz?"
+  }, {
+    "a" : "I ve II.",
+    "b" : "II ve III.",
+    "c" : "I, II ve IV.",
+    "d" : "II, III ve IV.",
+    "dc" : 3,
+    "foto" : "",
+    "soruAdi" : "I. Oy kullanmak,\\nII. Vergi vermek,\\nIII. Odamızı düzenli tutmak,\\nIV. Askere gitmek\\nYukarıda verilenlerden hangileri ülkemize karşı sorumluluklarımız arasında gösterilebilir?"
+  }, {
+    "a" : "Yalnız II.",
+    "b" : "I ve II.",
+    "c" : "I ve III.",
+    "d" : "II ve III.",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Suriye’de yaşanan olaylardan dolayı Meryem’in mahallesine bu bölgeden göç hareketi olmuştur.\\nMeryem’in mahallesinde bu göçlerden sonra;\\nI. konut ihtiyacının artması,\\nII. nüfusun artması,\\nIII. işsizlik oranının düşmesi\\ngelişmelerinden hangilerinin yaşanması beklenir?"
+  }, {
+    "a" : "Yasalara uyma",
+    "b" : "Çıkarcı olma",
+    "c" : "Haklarını bilme",
+    "d" : "Hoşgörülü olma",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Sosyal bilgiler dersi insana saygılı olmanın toplumsal ilişkilerdeki önemini fark ettirir. İnsan hakları, ulusal egemenlik ve demokrasi gibi kavramlarla tanıştırır. Yaşamımızı demokratik kurallar çerçevesinde düzenlemeyi öğretir. \\nBuna göre aşağıdakilerden hangisi sosyal bilgiler dersi ile kazandırılmak istenen bir davranış değildir?"
+  }, {
+    "a" : "Bir olayın bir tek nedeni ve bir tek sonucu vardır.",
+    "b" : "Bir olayın sonucu başka bir olayın sebebi olabilir.",
+    "c" : "Bir olaydan birden çok kişi etkilenebilir.",
+    "d" : "Aynı olay birçok insanı farklı biçimde etkileyebilir.",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Aşağıdakilerden hangisi olayların çok boyutluluğu ile ilgili yanlış bir bilgidir?"
+  }, {
+    "a" : "Dünyadaki farklı kültürleri tanımak",
+    "b" : "Sorumluluk almaktan kaçınmak",
+    "c" : "Çevremize karşı daha duyarlı olmak",
+    "d" : "Hak ve sorumluluklarımızı bilmek",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Aşağıdakilerden hangisi sosyal bilgiler dersinin kişinin gelişimine sağladığı faydalardan biri değildir?"
+  }, {
+    "a" : "Eğitime erişim hakkı",
+    "b" : "Yeterli beslenme hakkı",
+    "c" : "İfade özgürlüğü hakkı",
+    "d" : "Sağlık hizmetlerine erişim hakkı",
+    "dc" : 4,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/Sosyal%20Bilgiler%2FTest%202%2F11.png?alt=media&token=dd2c462c-b06a-4871-bb68-65207bb0798c",
+    "soruAdi" : "Buna göre Zeynep hangi hakkını kullanmıştır?"
+  }, {
+    "a" : "Satranç kulübüne katılması",
+    "b" : "İşçi olarak çalıştırılması",
+    "c" : "Sokakta mendil satması",
+    "d" : "Askere götürülmesi",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Aşağıdaki sorumluluklardan hangisi çocuklara verilirse Birleşmiş Milletler Çocuk Hakları Sözleşmesi ihlal edilmiş olmaz?"
+  } ],
+  "Türkçe Deneme 1" : [ {
+    "a" : "Doktor, çocuklara koyu süt önermiyor.",
+    "b" : "Takımın koyu taraftarları erkenden geldiler.",
+    "c" : "Aralarında koyu bir sohbet başladı.",
+    "d" : "Balıkçılar koyu mavi denize açıldılar.",
+    "dc" : 2,
+    "soruAdi" : "'Koyu' sözcüğü aşağıda verilen cümlelerin hangisinde 'Aşırı' anlamıyla kullanılmıştır ?"
+  }, {
+    "a" : "Çok yaşayan değil çok gezen bilir.",
+    "b" : "Onun anısını hep kalbimizde yaşayacağız.",
+    "c" : "Köydeki Hasan dede yaşıyor mu ?",
+    "d" : "İzmir' de yaşayan akrabalarımız var.",
+    "dc" : 4,
+    "soruAdi" : "'Yaşamak' sözcüğü aşağıdaki cümlelerin hangisinde 'oturmak' anlamında kullanılmıştır ?"
+  }, {
+    "a" : "Hıçkırarak yaşlı gözleriyle bana doğru baktı",
+    "b" : "Oldukça sevecen yaşlı bir teyzeydi.",
+    "c" : "Mahallenin yaşlıları toplantı yaptılar.",
+    "d" : "Bu evin yaşlı sahibi vardı.",
+    "dc" : 1,
+    "soruAdi" : "Aşağıdaki cümlelerin hangisinde 'yaşlı' sözcüğü diğerlerinden farklı bir anlamda kullanılmıştır ?"
+  }, {
+    "a" : "İki noktadan yalnız bir doğru geçer.",
+    "b" : "O her zaman hesapları doğru yapar.",
+    "c" : "Çocuk okula doğru koşarak gitti.",
+    "d" : "Bu konuda doğru söylediğini sanmıyorum.",
+    "dc" : 2,
+    "soruAdi" : "'Doğru' sözcüğü aşağıdaki cümlelerin hangisinde 'yanlışsız - eksiksiz' anlamında kullanılmıştır ?"
+  }, {
+    "a" : "Ağır sözler moralini bozdu.",
+    "b" : "Biz dar sokaklarında, dinmeyen yağmurunda geziyorduk.",
+    "c" : "Çevresindekilere soğuk davranır.",
+    "d" : "Verimli toprakları satmayı düşünmüyoruz",
+    "dc" : 2,
+    "soruAdi" : "Aşağıdaki cümlelerin hangisinde 'geniş' kelimesinin zıt anlamlısı kullanılmıştır ?"
+  }, {
+    "a" : "Çevresindekilere çok soğuk davranıyor.",
+    "b" : "Tatlı sözleriyle yılanı deliğinden çıkardı.",
+    "c" : "Yeni arkadaşlarıyla çabuk kaynaştı.",
+    "d" : "Yırtık ayakkabısını çöpe attı.",
+    "dc" : 4,
+    "soruAdi" : "Aşağıdaki cümlelerin hangisinde mecaz anlamlı sözcük yoktur ?"
+  }, {
+    "a" : "I",
+    "b" : "II",
+    "c" : "III",
+    "d" : "IV",
+    "dc" : 1,
+    "soruAdi" : "I.Balkondaki işe yaramaz eşyaları depoya koydum.\nII.Amcama göre, yaramaz bir çocuktum.\nIII.Öğretmen, sınıftaki yaramaz çocukların velileriyle görüştü.\nIV.Yaramazlık yaparsam, parka götürmeyeceğini söyledi.\n'Yaramaz' sözcüğü yukarıdaki cümlelerin hangisinde diğerlerinden farklı bir anlamda kullanılmıştır ?"
+  }, {
+    "a" : "Üstüne şık bir elbise giymişti.",
+    "b" : "Her zaman şık birisiydi .",
+    "c" : "Sorunu çözmek için iki şık vardı.",
+    "d" : "Şık bir cevap verdi.",
+    "dc" : 3,
+    "soruAdi" : "Aşağıdaki cümlelerin hangisinde 'şık' sözcüğü diğerlerinden farklı bir anlamda kullanılmıştır ?"
+  }, {
+    "a" : "Paranın üstünü almadan gelmişti.",
+    "b" : "Gömleğinin üst düğmesini kapatmamıştı.",
+    "c" : "Artıkları masanın üstünden kaldırdı.",
+    "d" : "Üstünü değiştirmek için izin aldı.",
+    "dc" : 1,
+    "soruAdi" : "'Üst' sözcüğü aşağıdaki cümlelerin hangisinde 'artan, geriye kalan, bölüm' anlamında kullanılmıştır ?"
+  }, {
+    "a" : "1",
+    "b" : "2",
+    "c" : "3",
+    "d" : "4",
+    "dc" : 4,
+    "soruAdi" : "I.aç - tok \nII.yüksek - alçak\nIII.uzun - kısa\nIV.kaygı - tasa\nYukarıdaki sözcüklerden hangisi anlam ilişkisi yönünden diğerlerinden farklıdır ?"
+  }, {
+    "a" : "Başını çevirmeden annesine cevap verdi.",
+    "b" : "Bahçenin etrafını dikenli telle çevirdiler.",
+    "c" : "Arkadaşım bizi çevirip evine götürdü.",
+    "d" : "O kadar gururlu ki, kendisine yollanan parayı geri çevirdi.",
+    "dc" : 3,
+    "soruAdi" : "'Çevirmek' sözcüğü aşağıdakilerden hangisinde 'yolundan alı koymak' anlamında kullanılmıştır?"
+  }, {
+    "a" : "Bu araba, doğrusu çok hoşuma gitti.",
+    "b" : "Dün anlatılanların doğrusunu ondan öğrendim.",
+    "c" : "Tahtaya bir sayı doğrusu çizmesini istedi.",
+    "d" : "Dikkatli baktı ama doğrusunu okuyamadı.",
+    "dc" : 1,
+    "soruAdi" : "Aşağıdakilerin hangisinde 'doğru' sözcüğü, açıklayıcı bir ifade olarak 'gerçek şu ki' anlamında kullanılmıştır ?"
+  }, {
+    "a" : "Günün şartlarına uygun davranmaya çalıştı .",
+    "b" : "Gün gördün, diyenlere gülümseyerek bakardı.",
+    "c" : "Gün biraz yükselince sıcak, kırları kapladı.",
+    "d" : "Gün boyunca sabırla telefonun çalmasını bekledi.",
+    "dc" : 2,
+    "soruAdi" : "'Gün' sözcüğü aşağıdakilerin hangisinde 'iyi yaşanmış zaman' anlamında kullanılmıştır ?"
+  }, {
+    "a" : "Kendine yeni bir güneş gözlüğü aldı.",
+    "b" : "Her tarafı eskimiş, güneş görmeyen bir konaktı.",
+    "c" : "Çiftçiler güneş batarken tahtadan dönüyordu.",
+    "d" : "Güneş gezegenlere ışık ve ısı verir.",
+    "dc" : 4,
+    "soruAdi" : "Aşağıdaki cümlelerin hangisinde 'güneş' sözcüğü terim anlamıyla kullanılmıştır?"
+  }, {
+    "a" : "Bu yaz tatil yapamayacağıma yanıyorum.",
+    "b" : "Eşyalar sağlam olarak teslim edildi.",
+    "c" : "Fındık toplayan yorgun kadınlarla konuştu.",
+    "d" : "Bir ricada bulunacak yardım isteyecekti.",
+    "dc" : 1,
+    "soruAdi" : "Aşağıdaki cümlelerin hangisinde sözcükler mecaz anlamda kullanılmıştır ?"
+  } ],
+  "Türkçe Deneme 2" : [ {
+    "a" : "Böcek",
+    "b" : "Sevgi",
+    "c" : "Çiçek",
+    "d" : "Kalp",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Kalbim al renkli bir çiçek\nRuhum üstündeki böcek\nSize sevgim büyük gerçek\nRenk renk kokulu çiçekler\nBu dörtlükte geçen “ruh” sözcüğü aşağıdakilerden hangisine benzetilmiştir?"
+  }, {
+    "a" : "Güneş",
+    "b" : "Ufuk",
+    "c" : "Şehir",
+    "d" : "Köy",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Güneş ufuklara saplarken mızrak,\nŞehirlerden uzak, köylerden uzak\nGeçmiş günlerimi hep unutarak\nSüslü rüyalara dalasım gelir.\nBu dörtlükte kişileştirilen unsur aşağıdakilerden hangisidir?"
+  }, {
+    "a" : "İkileme kullanılmıştır.",
+    "b" : "“Güleç” sözcüğü mecaz anlamda kullanılmıştır.",
+    "c" : "Benzetme sanatından yararlanılmıştır.",
+    "d" : "Eş sesli sözcüğe yer verilmiştir.",
+    "dc" : 2,
+    "foto" : "",
+    "soruAdi" : "Uçsuz bucaksız köylerimizde kuşlar gibi\nHer sabah çocuklar size uçar\nAma küçük, ama büyüyen, ama güleç\nAlın benim gönlümden de o kadar.\nBu dörtlükle ilgili aşağıdakilerden hangisi söylenemez?"
+  }, {
+    "a" : "Sağlıklı olmak istiyorsan sebzeden vazgeçme.",
+    "b" : "Sebzelik, balkondaki dolabın yanında duruyor",
+    "c" : "Sebzeli pilav yaptım bugün, gel de yiyelim.",
+    "d" : "Bugün sebzeci gelmediği için patlıcan alamadım.",
+    "dc" : 1,
+    "foto" : "",
+    "soruAdi" : "Yapım ekleri, sonuna geldiği sözcüğün anlamını değiştiren eklerdir.\nBuna göre aşağıdakilerin hangisinde “sebze” sözcüğünün aldığı ek, yapım eki değildir?"
+  }, {
+    "a" : "-gı",
+    "b" : "-ım",
+    "c" : "-ar",
+    "d" : "-ıt",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "“Yaz-” sözcüğü aşağıdaki eklerden hangisinin eklenmesiyle “Bir kimse veya bir olayın anısını yaşatmak için bir şey üzerine kazılan yazı” anlamı kazanır?"
+  }, {
+    "a" : "I.",
+    "b" : "II.",
+    "c" : "III",
+    "d" : "IV",
+    "dc" : 3,
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/deneme-sinavlari-477ec.appspot.com/o/T%C3%BCrk%C3%A7e%2Ftest2%2Ftt2s6.png?alt=media&token=8d40e06a-2b1e-4f99-8f83-b2b0ffcc7d72",
+    "soruAdi" : "Bu tabloda numaralanmış bölümlerden hangisinde yer alan sözcükler belirtilen ekleri almamıştır?"
+  }, {
+    "a" : "Bademcikler, boğaza gelen mikropları filtreler.",
+    "b" : "Kitapçığını kontrol etmeden teslim etme sakın!",
+    "c" : "Bu müzik aletinde kamıştan yapılan borucuklar vardır.",
+    "d" : "Bu büyük adanın etrafında birçok adacık vardır.",
+    "dc" : 4,
+    "foto" : "",
+    "soruAdi" : "“-cık” eki, sözcüklerin sonuna gelerek küçültme, acıma, azlık, sevgi, şefkat bildiren adlar türetir.\nBuna göre “-cık” eki aşağıdaki altı çizili sözcüklerin hangisine “küçültme” anlamı katmamıştır?"
+  } ]
+}
